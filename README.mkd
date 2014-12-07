@@ -6,11 +6,4 @@ Maintain a codex of code docs.
 Motivation
 ----------
 
-I rely on documentation very heavily, but most of the documentation I rely on is outdated, if not outright trash.
-
-As such, I wished to build on the efforts of others, and collect here in an extensively edited wiki format open source documentation I use.
-
-To Use
-------
-
-The documentation is currently housed in the GitHub wiki. In time, I plan on making the site much more full-featured, but for now a simple Jekyll page will do.
+I've decided to document technical miscellany here.
